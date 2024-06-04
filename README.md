@@ -1,1 +1,1 @@
-# Project_II_Ai
+# WEKA-Early-Diabetes-Risk-using-Machine-Learning
